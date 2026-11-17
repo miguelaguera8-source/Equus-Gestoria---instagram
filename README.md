@@ -6,3 +6,5 @@ Imágenes de las publicaciones de Instagram de Equus Gestoría, servidas públic
 - `feed/02-tanda-2/`: publicaciones 10 a 14 y sus textos.
 
 Solo se sube aquí contenido que se va a publicar.
+- `feed/03-tanda-3/`: publicaciones 15 a 19 y sus textos.
+- `feed/04-tanda-4/`: publicaciones 20 a 29 y sus textos.
